@@ -1,9 +1,9 @@
 import React from 'react';
-import './ContactUs.css';
+import './Contact.css';
 
 import QuickLinks from '../QuickLinks';
 
-class aboutUs extends React.Component {
+class bananas extends React.Component {
 	constructor(props) {
 		super(props);
 		this.state = {
@@ -63,4 +63,4 @@ class aboutUs extends React.Component {
 	}
 }
 
-export default aboutUs;
+export default bananas;
