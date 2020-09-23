@@ -6,6 +6,9 @@ Welcome to MusicHub! MusicHub is a social media platform tailored to Musicians o
 The application allows users to interact with each other via a posting method found on the homepage. Our Discover page allows users to discover new connections and follow artists of their choosing. Our news page is a great way for you to stay updated with the latest news around the world. 
 
 
+<img src="./assets/images/musichub-01.JPG">
+
+
 ### How To Access:
 
  -- Locally
@@ -18,8 +21,6 @@ To download the application onto your own machine please use https://github.com/
 * Run npm start to start the application locally
 * Once complete the application should open a broswer and take you to the homepage.
 
-
-<img src="./assets/images/musichub-01.JPG">
 
 -- Online
 
